@@ -266,7 +266,7 @@ span {
 @keyframes words {
     0%,
     20% {
-        content: "Frontend Developer";
+        content: "Frontend Desiger";
     }
     21%,
     40% {
@@ -285,6 +285,7 @@ span {
         content: "Data Analyst";
     }
 }
+
 
 @keyframes typing {
     10%,
